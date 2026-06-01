@@ -65,7 +65,7 @@ Full Subtractor
 
 ## Simulation Waveform
 
-![Waveform](Waveform.png)
+![Waveform](Waveforms.png)
 
 ---
 
