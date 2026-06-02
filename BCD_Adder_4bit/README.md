@@ -88,7 +88,6 @@ BCD_Adder_4bit/
 
 ## Author
 
-**Sri Lakshmi Kaathyayani Jonnalagadda**  
-Final Year B.Tech ECE (VLSI)
-
-*Part of my VLSI Design Learning Journey.*
+**Sri Lakshmi Kaathyayani Jonnalagadda** <br>
+**Final Year B.Tech ECE (VLSI)** <br>
+**VIT-AP University**
