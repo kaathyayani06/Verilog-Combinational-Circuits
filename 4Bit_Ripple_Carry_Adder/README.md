@@ -72,6 +72,5 @@ Ripple_Carry_Adder_4bit/
 ## Author
 
 **Sri Lakshmi Kaathyayani Jonnalagadda** <br>
-Final Year B.Tech ECE (VLSI)
-
-*Part of my VLSI Design Learning Journey.*
+**Final Year B.Tech ECE (VLSI)** <br>
+**VIT-AP University**
