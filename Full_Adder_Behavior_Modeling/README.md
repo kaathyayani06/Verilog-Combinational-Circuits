@@ -31,7 +31,7 @@ The Full Adder performs the addition of two input bits along with an input carry
 Full_Adder/
 ├── full_adder.v
 ├── full_adder_tb.v
-├── Simulation_waveform.png
+├── Simulatin_waveform.png
 ├── Schematic.png
 └── README.md
 ```
@@ -40,7 +40,7 @@ Full_Adder/
 
 ## Simulation Waveform
 
-![Waveform](Simulation_waveform.png)
+![Waveform](Schematic_waveform.png)
 
 ---
 
