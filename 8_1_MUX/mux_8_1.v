@@ -32,6 +32,7 @@ always@(*)
         3'b101:y=i[5];
         3'b110:y=i[6];
         3'b111:y=i[7];
+        default: y=0;
         endcase
     end
 endmodule
